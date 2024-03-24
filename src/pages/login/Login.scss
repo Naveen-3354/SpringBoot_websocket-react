@@ -1,0 +1,24 @@
+#Login {
+  width: 30vw;
+  height: 100vh;
+  background-color: rgb(231, 231, 231);
+
+  .card {
+    padding: 0 40px;
+    height: 350px;
+    display: flex;
+    gap: 20px;
+    flex-direction: column;
+    justify-content: center;
+    h2 {
+    //   text-align: center;
+      font-size: 2em;
+      font-weight: bolder;
+    }
+
+    h3 {
+      font-size: 1.7em;
+      font-weight: bold;
+    }
+  }
+}
